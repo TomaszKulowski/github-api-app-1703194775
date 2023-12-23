@@ -327,3 +327,4 @@ tags
 *.pyc
 .idea
 __pycache__
+.env
